@@ -484,7 +484,9 @@
             'th-Free Server 001' => 'http://103.114.200.252:81/server/online',
             'th-Free Server 001' => 'http://103.114.200.251:81/server/online',
             'th-Free Server 002' => 'http://103.114.200.252:81/server/online',
-            'th-Free Server 003' => 'http://185.78.167.193:81/server/online'
+            'th-Free Server 003' => 'http://185.78.167.193:81/server/online' ,
+            'th-Free Server 004' => 'http://185.78.165.131:81/server/online' ,
+            'th-Free Server 005' => 'http://43.229.132.154:81/server/online'
            
           
           
@@ -667,4 +669,5 @@
         // Function to update ping times
         function updatePingTimes() {
             console.log("Updating ping times...");
+
             // In a real implementation, this would ma
